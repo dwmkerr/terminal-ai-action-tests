@@ -16,3 +16,6 @@ jobs:
 
       - name: AI
         uses: dwmkerr/terminal-ai-action@v0.1.7
+        with:
+          command: |
+            ai "what is a github action"
