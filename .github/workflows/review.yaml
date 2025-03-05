@@ -15,4 +15,4 @@ jobs:
         uses: actions/checkout@v4
 
       - name: AI
-        uses: dwmkerr/terminal-ai@latest
+        uses: dwmkerr/terminal-ai-action@v0.1.7
