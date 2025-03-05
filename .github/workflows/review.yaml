@@ -15,7 +15,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: AI
-        uses: dwmkerr/terminal-ai-action@v0.1.7
+        uses: dwmkerr/terminal-ai-action@v0.2.0
         with:
           command: |
             ai "what is a github action"
